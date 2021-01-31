@@ -1,1 +1,1 @@
-<Path to opencv_traincascade.exe -data cascade> -vec pos.vec -bg neg.txt -numPos 1000 -numNeg 10000 -precalcValBufSize 2048 -precalcIdxBufSize 2048 -numStages 20 -acceptanceRatioBreakValue 10e-5 -w 24 -h 24 -maxFalseAlarmRate 0.2 -minHitRate 0.999
+<Path to opencv_traincascade.exe> -data cascade -vec pos.vec -bg neg.txt -numPos 1000 -numNeg 10000 -precalcValBufSize 2048 -precalcIdxBufSize 2048 -numStages 20 -acceptanceRatioBreakValue 10e-5 -w 24 -h 24 -maxFalseAlarmRate 0.2 -minHitRate 0.999
