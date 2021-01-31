@@ -1,0 +1,14 @@
+to-google
+debug/*
+.vscode
+__pycache__
+positive/*
+neg/*
+pos.txt
+pos.vec
+neg.txt
+cascade/bad.xml
+discard/*
+priv-createvec.sh
+priv-train.sh
+priv-annotate.sh

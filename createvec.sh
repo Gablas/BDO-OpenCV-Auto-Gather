@@ -1,0 +1,1 @@
+<Path to opencv_createsamples.exe> -info pos.txt -w 24 -h 24 -num 5000 -vec pos.vec

@@ -1,0 +1,1 @@
+<Path to opencv_annotation.exe> --annotations=pos.txt --images=positive/
